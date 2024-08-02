@@ -5,7 +5,7 @@
 		2. https://coolshell.cn/articles/8239.html
 */
 
-package concurrent
+package concurrency
 
 import (
 	"sync"
